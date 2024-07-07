@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 import java.util.ArrayList;
 import java.util.List;
 
