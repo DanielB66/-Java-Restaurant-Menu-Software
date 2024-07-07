@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 import java.util.List;
 
 public class MenuProgram {
