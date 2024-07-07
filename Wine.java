@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 public class Wine extends Beverage {
 	protected double percentage_of_alcohol;
 	protected int year_of_manufacture;
