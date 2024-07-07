@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 public class Food {
 	protected String name;
 	protected String description;
