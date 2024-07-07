@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 public class MainCourse extends Food {
 	protected String kitchen;
 
